@@ -1,0 +1,6 @@
+Dieses Programm soll eine einfache Möglichkeit bieten, Rechnungen und Kostenvoranschläge, die Tabellen enthalten,
+zu erstellen. Zur Ausgabe wird ein LaTeX-Dokument erstellt, dass der Klasse letter angehört. Aus diesem wird im 
+Anschluss ein PDF-Dokument erstellt, dass sich dann zum Ausdrucken eignet.
+
+Die Obefläche selbst muss einfach gestaltet sein. Das Programm ist für Menschen gedacht, die mit Textverarbeitung
+nicht und kaum umgehen können.
